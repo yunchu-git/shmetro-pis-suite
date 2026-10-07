@@ -1,5 +1,5 @@
 # shmetro-pis-suite
-上海地铁模拟器全套资源开源仓库（python构建）
+上海地铁模拟器开源仓库（python构建）
 
 > [!IMPORTANT]
 > **本软件使用MIT协议，在分发时请保留协议原文并署名！谢谢！**
