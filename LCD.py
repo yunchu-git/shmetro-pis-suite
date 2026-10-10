@@ -1,5 +1,4 @@
 import pygame
-import threading
 class LCD:
     def __init__(self):
         self.station = None
